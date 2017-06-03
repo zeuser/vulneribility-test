@@ -1,0 +1,15 @@
+Sat Jun 03 11:30:53 2017: build-wrapper, version 4.8 (win-x86-64)
+Sat Jun 03 11:30:53 2017: isWow64: 0
+Sat Jun 03 11:30:53 2017: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Sat Jun 03 11:30:53 2017: current directory: D:\vulneribility-test
+Sat Jun 03 11:30:53 2017: command line received: <make clean all>
+Sat Jun 03 11:30:53 2017: initializing json file
+Sat Jun 03 11:30:53 2017: starting debug cycle
+Sat Jun 03 11:30:53 2017: process created with pid: 5532
+Sat Jun 03 11:30:53 2017: image path name: <D:\build-wrapper\make.exe>
+Sat Jun 03 11:30:53 2017: command line: <make clean all>
+Sat Jun 03 11:30:53 2017: working directory: <D:\vulneribility-test\>
+Sat Jun 03 11:30:53 2017: isWow64: 0
+Sat Jun 03 11:30:53 2017: skipping process D:\build-wrapper\make.exe with pid: 5532
+Sat Jun 03 11:30:53 2017: process with pid 5532 exit with code: 2 (0x2)
+Sat Jun 03 11:30:53 2017: finalizing json file
